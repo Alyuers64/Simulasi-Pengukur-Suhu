@@ -1,0 +1,7 @@
+Komponen yang dibutuhkan
+- Arduino Uno R3                (x1)
+- Temperature Sensor [TMP36]    (x1)
+- LCD 16 x 2			(x1)
+- 330 Ω Resistor		(x1)
+- 250 kΩ Potentiometer		(x1)
+- Breadboard small		(x1)
